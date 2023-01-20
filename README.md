@@ -6,7 +6,7 @@
 - 🤝 I’m looking for Internship / Full-time job.
 
 ## 📫 You can reach me at
-- Linkedin Profile: https://www.linkedin.com/in/aadhityaa-s-49b227214/
+- Linkedin Profile: https://www.linkedin.com/in/aadhityaas/
 <!---
 Aadhityaa745/Aadhityaa745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
