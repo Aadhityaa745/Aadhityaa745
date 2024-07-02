@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aadhityaa S
 - 🎓 BSC Computer Science Graduate from A.M. Jain College.
-- 💻 With my background in Computer Science, I have developed a strong foundation in programming languages such as Python, Core Java, database MySQL, Django, HTML and CSS.
+- 💻 With my background in Computer Science, I have developed a strong foundation in programming languages such as Python, Core Java, SQL - MySQL, Django, HTML and CSS.
 - 🤹🏻 In addition to my technical skills, I have also developed strong skills in communication, adaptability, problem-solving, quick learning, focus and creative thinking.
 - 🙂 I am dedicated to continually learning and growing my skillset and am always open to new opportunities.
 - 🤝 I’m looking for Internship / Full-time job.
