@@ -10,7 +10,7 @@
 
 
 - 💻 With my background in Computer Science, I have a strong foundation in programming, backed by hands-on training in:
-- **Python**, **SQL(MySQL, HSQL)/ PL-SQL**, Power BI, Data Engineering Using Python (Pandas).
+-- **Python**, **SQL(MySQL, HSQL)/ PL-SQL**, Power BI, Data Engineering Using Python (Pandas).
 - Familiar with **Core Java**, **Big Data tools** and analytics concepts.
 - 🧠 I'm passionate about working with **data**, solving problems, and continuously improving through learning and practice.
 - 🧩 Alongside technical skills, I’ve built strong **communication**, **adaptability**, **problem-solving**, and **creative thinking** abilities — all of which help me thrive in collaborative environments.
