@@ -1,4 +1,4 @@
----
+##
 
 - 👋 Hello, I'm Aadhityaa S
 - 🎓 B.Sc. Computer Science Graduate from A.M. Jain College, Chennai.  
@@ -22,8 +22,6 @@
 🔎 Open to **full-time opportunities** and **internships** in the field of:
 - **Data Analytics**
 - **Big Data Engineering**
-- **Software Development**
-- **Backend Development**
 
 📘 Currently exploring:  
 - Advanced **SQL techniques**  
