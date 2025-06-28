@@ -2,7 +2,7 @@
 
 - 👋 Hello, I'm Aadhityaa S
 - 🎓 B.Sc. Computer Science Graduate from A.M. Jain College, Chennai.  
-💼 Currently working as a **Systems Associate Trainee** at Infosys, trained in **Big Data & Analytics**.
+- 💼 Currently working as a **Systems Associate Trainee** at Infosys, trained in **Big Data & Analytics**.
 
 ---
 
